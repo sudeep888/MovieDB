@@ -15,7 +15,7 @@ A movie app built with React and Axios to fetch and display movies and tv series
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/Yaser-2004/MoviesDatabase.git
+   git clone https://github.com/sudeep888/MoviesDB.git
 
 2. Navigate to the project directory:
    cd MoviesDatabase
